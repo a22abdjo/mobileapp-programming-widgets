@@ -3,7 +3,7 @@
 
 ** Först valdes en constraint layout. Mina tre widgets var textview, image view och en button. I dessa widgets ändrades innehållet samt positioneringen på de. En bild importerades med hjälp av en drawable bild, dessutom sågs det till att margin ändrades för alla komponeneter genom att ändra defualt margin i design sidan. Exempel cod på image view visas nedan.  **
 
- 
+  
 ```
 <ImageView
         android:id="@+id/imageView"
